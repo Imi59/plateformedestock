@@ -12,10 +12,7 @@ export const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <a href="/" className="flex items-center gap-2">
-              <img src="/logo.png" alt="Plateforme destock" className="h-10 w-auto" />
-              <span className="text-2xl font-bold text-[#8B5CF6] hover:opacity-90 transition-opacity">
-                Plateforme destock
-              </span>
+              <img src="/public/logo.png" alt="Plateforme destock" className="h-10 w-auto" />
             </a>
           </div>
 
